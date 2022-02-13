@@ -12,7 +12,7 @@ for (n = 0; n < v.length; n++) {
 if (v.length > 0) {
   s = document.createElement("style");
   s.type = "text/css";
-  s.innerHTML = '.youtube_codegena {background-color:#000;max-width:100%;overflow:hidden;position:relative;cursor:hand;cursor:pointer}.youtube_codegena .thumb{bottom:0;display:block;left:0;margin:auto;max-width:100%;position:absolute;right:0;top:0;width:100%;height:auto}.youtube_codegena .play{filter:alpha(opacity=80);opacity:.8;height:77px;left:50%;margin-left:-38px;margin-top:-38px;position:absolute;top:50%;width:77px;background:url("https://lh3.ggpht.com/vo4W82YNfpJDsttqn-22YsLtEJjmOtIB-54yIxR5wQA0Ucs5leNIu-W8iEmyY8-Pf7RWHk4=w64") no-repeat}';
+  s.innerHTML = '.youtube_codegena {background-color:#000;max-width:100%;overflow:hidden;position:relative;cursor:hand;cursor:pointer}.youtube_codegena .thumb{bottom:0;display:block;left:0;margin:auto;max-width:100%;position:absolute;right:0;top:0;width:100%;height:auto}.youtube_codegena .play{filter:alpha(opacity=80);opacity:.8;height:77px;left:50%;margin-left:-38px;margin-top:-38px;position:absolute;top:50%;width:77px;background:url("https://blogger.googleusercontent.com/img/a/AVvXsEgAA1bPSWDiwVKrXA8OyC3fXlthrrLbrB8BjfbGyAPkBwXY60FRwPrvFj-PI47M_Di0-I6De3bTwNQUi0aSK_rucKl7z8Ngn-OmiP5MWnv-kDm23XWZb1H6UkrWPp-cas3mlpsHCaYnliMssQw3IBXCmaQnJT_acX9DHf0lv6gMhF_PnXcPy5VhkaOE=s240") no-repeat}';
   document.body.appendChild(s);
 }
 
